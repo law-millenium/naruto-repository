@@ -10,7 +10,7 @@ import java.util.function.Function;
 public enum Shinobi {
     /* Naruto */
     NARUTO("naruto", -16, 0, 32, ShinobiGroup.KONOHA), //
-    NARUTO_KYUBI("narutoKyubi", -16, -2, 32, ShinobiGroup.KONOHA), //
+    NARUTO_PARTIAL_KYUBI_MODE("narutoPartialKyubiMode", -16, -2, 32, ShinobiGroup.KONOHA), //
     NARUTO_SEXY_JUTSU("narutoSexyJutsu", -16, -0, 32, ShinobiGroup.KONOHA), //
     SASUKE("sasuke", -16, -0, 32, ShinobiGroup.KONOHA), //
     SASUKE_CURSED_SEAL("sasukeCursedSeal", -16, -0, 32, ShinobiGroup.KONOHA), //
