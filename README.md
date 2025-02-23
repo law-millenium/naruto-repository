@@ -17,6 +17,8 @@ or [starring it on Github](https://github.com/law-millenium/naruto-progress)!
 * ![NarutoPartialKyubiMode](src/main/resources/com/lawmillenium/intellij/plugins/narutoprogress/sprites/narutoPartialKyubiMode.gif) Naruto
   with Kyubi
   envelope ![NarutoPartialKyubiMode](src/main/resources/com/lawmillenium/intellij/plugins/narutoprogress/sprites/narutoPartialKyubiMode_r.gif)
+* ![NarutoKyubiMode](src/main/resources/com/lawmillenium/intellij/plugins/narutoprogress/sprites/narutoKyubiMode.gif) Naruto
+  in Kyubi chakra mode ![NarutoKyubiMode](src/main/resources/com/lawmillenium/intellij/plugins/narutoprogress/sprites/narutoKyubiMode_r.gif)
 * ![NarutoSexyJutsu](src/main/resources/com/lawmillenium/intellij/plugins/narutoprogress/sprites/narutoSexyJutsu.gif) 
   Naruto in sexy jutsu mode
   ![NarutoSexyJutsu](src/main/resources/com/lawmillenium/intellij/plugins/narutoprogress/sprites/narutoSexyJutsu_r.gif)
