@@ -32,7 +32,7 @@ or [starring it on Github](https://github.com/law-millenium/naruto-progress)!
   Sakura ![Sakura](src/main/resources/com/lawmillenium/intellij/plugins/narutoprogress/sprites/sakura_r.gif)
 * ![Neji](src/main/resources/com/lawmillenium/intellij/plugins/narutoprogress/sprites/neji.gif)
   Neji ![Neji](src/main/resources/com/lawmillenium/intellij/plugins/narutoprogress/sprites/neji_r.gif)
-* * ![DrunkRockLee](src/main/resources/com/lawmillenium/intellij/plugins/narutoprogress/sprites/drunkRockLee.gif)
+* ![DrunkRockLee](src/main/resources/com/lawmillenium/intellij/plugins/narutoprogress/sprites/drunkRockLee.gif)
   Drunk Rock Lee ![DrunkRockLee](src/main/resources/com/lawmillenium/intellij/plugins/narutoprogress/sprites/drunkRockLee_r.gif)
 * ![Tenten](src/main/resources/com/lawmillenium/intellij/plugins/narutoprogress/sprites/tenten.gif)
   Tenten ![Tenten](src/main/resources/com/lawmillenium/intellij/plugins/narutoprogress/sprites/tenten_r.gif)
