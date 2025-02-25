@@ -7,6 +7,7 @@ import java.util.Arrays;
 import java.util.Map;
 import java.util.function.Function;
 
+//TODO: rename in Characters or assimilate
 public enum Shinobi {
     /* Naruto */
     NARUTO("naruto", -16, 0, 32, ShinobiGroup.KONOHA), //
@@ -33,10 +34,12 @@ public enum Shinobi {
     ITACHI("itachi", -16, -1, 32, ShinobiGroup.AKATSUKI), //
     MADARA("madara", -16, 0, 32, ShinobiGroup.BINGO_BOOK), //
     MADARA_RIKUDO("madaraRikudo", -16, 0, 32, ShinobiGroup.BINGO_BOOK), //
+    KURAMA("kurama", -29, 0, 32, ShinobiGroup.BIJUU), //
 
     /* Boruto */
     BORUTO("boruto", -16, -1, 32, ShinobiGroup.BORUTO), //
     MITSUKI("mitsuki", -16, -1, 32, ShinobiGroup.BORUTO), //
+
     MISSINGNO("missingNo.", -20, 0, 35, true, null);
 
     public static final Map<String, Shinobi> DEFAULT_SHINOBIS = Arrays.stream(values()) //

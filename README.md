@@ -73,6 +73,10 @@ or [starring it on Github](https://github.com/law-millenium/naruto-progress)!
 * ![MadaraRikudo](src/main/resources/com/lawmillenium/intellij/plugins/narutoprogress/sprites/madaraRikudo.gif)
   Madara in Rikudo mode ![MadaraRikudo](src/main/resources/com/lawmillenium/intellij/plugins/narutoprogress/sprites/madaraRikudo_r.gif)
 
+### Bijuu
+* ![Kurama](src/main/resources/com/lawmillenium/intellij/plugins/narutoprogress/sprites/kurama.gif)
+  Kurama ![Kurama](src/main/resources/com/lawmillenium/intellij/plugins/narutoprogress/sprites/kurama_r.gif)
+
 ### Boruto
 * ![Boruto](src/main/resources/com/lawmillenium/intellij/plugins/narutoprogress/sprites/boruto.gif)
   Boruto ![Boruto](src/main/resources/com/lawmillenium/intellij/plugins/narutoprogress/sprites/boruto_r.gif)
