@@ -55,6 +55,11 @@ or [starring it on Github](https://github.com/law-millenium/naruto-progress)!
 * ![Tobirama](src/main/resources/com/lawmillenium/intellij/plugins/narutoprogress/sprites/tobirama.gif)
   Tobirama ![Tobirama](src/main/resources/com/lawmillenium/intellij/plugins/narutoprogress/sprites/tobirama_r.gif)
 
+### Iwa
+
+* ![Onoki](src/main/resources/com/lawmillenium/intellij/plugins/narutoprogress/sprites/onokiFlying.gif)
+  Onoki Fying ![Onoki](src/main/resources/com/lawmillenium/intellij/plugins/narutoprogress/sprites/onokiFlying_r.gif)
+
 ### Kumo
 
 * ![Yugito](src/main/resources/com/lawmillenium/intellij/plugins/narutoprogress/sprites/yugito.gif)

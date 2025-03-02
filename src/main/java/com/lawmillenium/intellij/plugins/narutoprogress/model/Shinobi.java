@@ -29,6 +29,7 @@ public enum Shinobi {
     KURENAI("kurenai", -16, -3, 32, ShinobiGroup.KONOHA), //
     MINATO("minato", -16, -3, 32, ShinobiGroup.KONOHA), //
     TOBIRAMA("tobirama", -16, 0, 32, ShinobiGroup.KONOHA), //
+    ONOKI_FLYING("onokiFlying", -16, 0, 32, ShinobiGroup.IWA), //
     YUGITO("yugito", -16, 0, 32, ShinobiGroup.KUMO), //
     TOBI("tobi", -16, 0, 32, ShinobiGroup.AKATSUKI), //
     ITACHI("itachi", -16, -1, 32, ShinobiGroup.AKATSUKI), //
